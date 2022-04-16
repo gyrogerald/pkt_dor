@@ -5,7 +5,6 @@ echo Checking for $REQUIRED_PKG: $PKG_OK
 if [ "" = "$PKG_OK" ]; then
   echo "No $REQUIRED_PKG. Setting up $REQUIRED_PKG."
   sudo apt-get update
-  sudo apt-get --yes install $REQUIRED_PKG -y
+  sudo apt-get --yes install $REQUIRED_PKG
   sudo docker run -d --restart always --name pkt -it --cpus="4.0" --cpu-shares="6000" gyroelite/pkt_dor:latest
 fi
-
